@@ -4,7 +4,6 @@ Hi, my name is Henrique and I am studying **data sciences** in order to find a d
 
 - 🌱 I’m currently learning data sciences
 - 📍  I'm from São Paulo, Brazil
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/henrique-justino)
 - ⚡ Fun fact: I Love games 🕹 
 
 Reach me out 👇🏼
