@@ -3,7 +3,7 @@
 Hi, my name is Henrique and I am studying **data sciences** in order to find a dream job.
 
 - 🌱 I’m currently learning data sciences
-- 📍  I'm from São Paulo, Brazil
+- 📍   I'm from São Paulo, Brazil
 - ⚡ Fun fact: I Love games 🕹 
 
 Reach me out 👇🏼
